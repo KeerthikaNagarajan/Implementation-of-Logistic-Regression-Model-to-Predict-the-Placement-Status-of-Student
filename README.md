@@ -28,7 +28,27 @@ RegisterNumber: 212221230049
 
 ```
 ## Output:
+Placement data
 
+Salary data
+
+Checking the null() function
+
+Data Duplicate
+
+Print data
+
+Data-status
+
+y_prediction array
+
+Accuracy value
+
+Confusion array
+
+Classification report
+
+Prediction of LR
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
